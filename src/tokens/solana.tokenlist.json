@@ -3,33 +3,26 @@
   "tags": {
     "utility-token": {
       "name": "Utility Token",
-      "description": "Tokens that provide access to a product or service"
+      "description": "Tokens that provide access to a product >
     }
   },
-  "timestamp": "2025-04-14T07:00:00+00:00",
+  "timestamp": "2025-04-14T06:50:58.164461+00:00",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
       "chainId": 101,
-      "address": "4k3Dyjzvzp8eVgLKxEYWQkEMSRMKD7gSf8FLh7xwzUQe",
-      "symbol": "RAY",
-      "name": "Raydium",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4k3Dyjzvzp8eVgLKxEYWQkEMSRMKD7gSf8FLh7xwzUQe/logo.png",
-      "tags": ["utility-token"]
-    },
-    {
-      "chainId": 101,
-      "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
+      "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z>
       "symbol": "XNX",
-      "name": "XenexAi",
+      "name": "Xenex",
       "decimals": 9,
       "logoURI": "https://xenexai.com/token/xenex-logo.png",
-      "tags": ["utility-token"]
+      "tags": [
+        "utility-token"
+      ]
     }
   ]
 }

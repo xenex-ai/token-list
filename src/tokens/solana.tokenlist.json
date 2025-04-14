@@ -1,10 +1,35 @@
-,
 {
-  "chainId": 101,
-  "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
-  "symbol": "XNX",
-  "name": "XenexAi",
-  "decimals": 9,
-  "logoURI": "https://xenexai.com/token/xenex-logo.png",
-  "tags": ["utility-token"]
+  "name": "Solana Token List",
+  "tags": {
+    "utility-token": {
+      "name": "Utility Token",
+      "description": "Tokens that provide access to a product or service"
+    }
+  },
+  "timestamp": "2025-04-14T07:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "AEi8H1qXWvdVuKzDjPrGsATckqmGJV6gCGJ4isQX2Nrf",
+      "symbol": "XenexAi",
+      "name": "XNX",
+      "decimals": 9,
+      "logoURI": "https://xenexai.com/token/xenex-logo.png",
+      "tags": ["utility-token"]
+    },
+    {
+      "chainId": 101,
+      "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
+      "symbol": "XNX",
+      "name": "XenexAi",
+      "decimals": 9,
+      "logoURI": "https://xenexai.com/token/xenex-logo.png",
+      "tags": ["utility-token"]
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 ,
 {
-  "chainId": 101,
-  "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
-  "symbol": "XNX",
-  "name": "XenexAi",
-  "decimals": 9,
-  "logoURI": "https://xenexai.com/token/xenex-logo.png",
-  "tags": ["utility-token"]
+  "chainId": 101,
+  "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
+  "symbol": "XNX",
+  "name": "XenexAi",
+  "decimals": 9,
+  "logoURI": "https://xenexai.com/token/xenex-logo.png",
+  "tags": ["utility-token"]
 }

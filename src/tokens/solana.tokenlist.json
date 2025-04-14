@@ -3,7 +3,7 @@
   "tags": {
     "utility-token": {
       "name": "Utility Token",
-      "description": "Tokens that provide access to a product >
+      "description": "Tokens that provide access to a product"
     }
   },
   "timestamp": "2025-04-14T06:50:58.164461+00:00",
@@ -15,7 +15,7 @@
   "tokens": [
     {
       "chainId": 101,
-      "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z>
+      "address": "3M1E2SCkmRLEMDNLBxd8KjwFmmyCswodvSsdg2hmBz3z",
       "symbol": "XNX",
       "name": "Xenex",
       "decimals": 9,

@@ -1,0 +1,9 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "Dies ist ein Testtoken mit Pinata und GitHub.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmaqPrEygTME7kJB7rkb2cyTrHm7CF6m3E2EfqtincP7rV",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmctUUbEYTVC8EjcUkg3kAGiSiiZfssEE4XypYJeqyQo5c",
+  "mint": "DQ4LN5MuzzwjE7k1bYHjG3FpLLiMqTsM119BdcigXRpu",
+  "tx_sig": "3Z7MuZfHTCC7AY1Cy6cfpcvdWcgKFcnagZVu3FubFddjQxU2dJyTVwotN5D5Un2P1oCsHZrh5gAptGvBMybMsexJ"
+}

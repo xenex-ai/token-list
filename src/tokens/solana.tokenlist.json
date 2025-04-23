@@ -16,8 +16,8 @@
     {
       "chainId": 101,
       "address": "AEi8H1qXWvdVuKzDjPrGsATckqmGJV6gCGJ4isQX2Nrf",
-      "symbol": "XenexAi",
-      "name": "XNX",
+      "symbol": "XNX",
+      "name": "Xenex",
       "decimals": 9,
       "logoURI": "https://xenexai.com/token/xenex-logo.png",
       "tags": ["utility-token"]

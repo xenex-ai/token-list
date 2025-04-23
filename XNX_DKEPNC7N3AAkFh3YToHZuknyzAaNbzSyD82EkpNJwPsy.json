@@ -1,0 +1,10 @@
+{
+  "mint_address": "DKEPNC7N3AAkFh3YToHZuknyzAaNbzSyD82EkpNJwPsy",
+  "metadata_pda": "BZYoYY1ftA6d46AGgkEqFkzx4g7jfYmpTKSAmtKpW4uj",
+  "tx_sig": "37icJheJWodkf8fZ8LjCAmCs5BLp5qUG43HxDPqXnTtFrQfgCm5MwpJp7wWpCRTzNZ629LEijqT1LyBVo8bF3viM",
+  "name": "Xenex",
+  "symbol": "XNX",
+  "description": "official xenexAi SPL token on solana",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ1DN6jU6VUST9dAijdPYnViiEbzTLQFun5aRckyQ4oBc",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmZpkcJVLiVZ1MT9iq9JYQTVU4yUmasSQ196MCMTNUiBQ1"
+}

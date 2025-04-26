@@ -1,0 +1,11 @@
+{
+  "chain": "solana",
+  "name": "Xenex",
+  "symbol": "XNX",
+  "description": "official xenexAi SPL token on Solana",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ1DN6jU6VUST9dAijdPYnViiEbzTLQFun5aRckyQ4oBc",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmZ1DN6jU6VUST9dAijdPYnViiEbzTLQFun5aRckyQ4oBc",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmSKoC1tXCVYdrfekmWmXRCph2BTefrBfGAjkprW6PNhbL",
+  "mint": "5PnfVLUb3KdmT5DQrLpyTotDCgP9Tc9wk4PwzK7rXsyp",
+  "tx_sig": "2pxgRgDrbhvYEc3sEBVvkZJ752VZNnZg8nK17bhjo1TWjDPxPrGgim8S4MeRdfZcNLNmW4aURj22YbcipaYgbwj5"
+}

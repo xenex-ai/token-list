@@ -1,0 +1,11 @@
+{
+  "chain": "solana",
+  "name": "Xenex",
+  "symbol": "XNX",
+  "description": "Ein Beispiel-Token",
+  "image": "https://gateway.pinata.cloud/ipfs/QmZ1DN6jU6VUST9dAijdPYnViiEbzTLQFun5aRckyQ4oBc",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmZ1DN6jU6VUST9dAijdPYnViiEbzTLQFun5aRckyQ4oBc",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmVxyF3NDgksaaBUHkyg6yed9oBhcui5ZezWMFetsiMBry",
+  "mint": "J8KivdqXTowSCozGXzNhZKsgRPJVVbK6KojV3ynqf5rF",
+  "tx_sig": "4mWpFZvZoGSN1PkgbP2GbdMNnzv8S5ZqxatbzZoitjotPrrka1UARsa98nMMEKwMBZjhMHULfaCERxqqqcBHPWa6"
+}

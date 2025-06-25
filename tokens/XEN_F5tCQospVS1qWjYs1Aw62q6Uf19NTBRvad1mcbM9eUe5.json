@@ -1,0 +1,12 @@
+{
+  "name": "Xenron",
+  "symbol": "XEN",
+  "description": "xenRon Ai - powerd by xenexAi.com",
+  "image": "https://gateway.pinata.cloud/ipfs/QmUNteP26YcKDHhhVEJRZdqgZFGnA3hTBC8VKyX54LFXEe",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmV22rDb8NkeeHfMR7GBSjVt7heviYu7fwBbXQRENUWPov",
+  "mint": "F5tCQospVS1qWjYs1Aw62q6Uf19NTBRvad1mcbM9eUe5",
+  "tx_sig": "3rXPZZdenWuE4aF1sdUVC9A112N6KPVREPd4MyEyhwaATPsjD2DMoKUQvHdqxDKTrCyrJDiyfpbshzcwEaxXbBrv",
+  "tokenStandard": 1,
+  "mintable": false,
+  "isMutable": false
+}

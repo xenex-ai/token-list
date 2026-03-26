@@ -1,0 +1,14 @@
+{
+  "name": "XenexAI",
+  "symbol": "XNX",
+  "description": "XenexAI - Futuristic AI-powered token on Solana",
+  "image": "https://gateway.pinata.cloud/ipfs/QmVLF4mL1XCpCPDaebbbwqupPFNBB7JyU5dcNxDpCLCwq1",
+  "metadata": "https://gateway.pinata.cloud/ipfs/QmRLxHGJhNrVswvsQSqYu9etLewHHaev5rw1uR2eSSG9Yj",
+  "mint": "2fV9kuzHP58Su9tm5Wx41yeo9EYFXrLZjMRXmf82mef8",
+  "tx_sig": "2DVa2yWfbGPFvyLQhMbpxgqecURmyJqsEtndsPS99ZrwtWFrBcZbWohcsB4Wvx2GvxAqnVkYv9m1HkErDSjWA5DG",
+  "tokenStandard": 1,
+  "mintable": false,
+  "isMutable": false,
+  "mintAuthority": null,
+  "freezeAuthority": null
+}
